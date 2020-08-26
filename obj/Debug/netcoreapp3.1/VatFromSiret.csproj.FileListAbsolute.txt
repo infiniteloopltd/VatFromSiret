@@ -1,0 +1,13 @@
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.exe
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.deps.json
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.runtimeconfig.json
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.runtimeconfig.dev.json
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.dll
+C:\Users\fiach\source\repos\VatFromSiret\bin\Debug\netcoreapp3.1\VatFromSiret.pdb
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.csprojAssemblyReference.cache
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.AssemblyInfoInputs.cache
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.AssemblyInfo.cs
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.csproj.CoreCompileInputs.cache
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.dll
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.pdb
+C:\Users\fiach\source\repos\VatFromSiret\obj\Debug\netcoreapp3.1\VatFromSiret.genruntimeconfig.cache
